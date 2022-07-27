@@ -1,6 +1,6 @@
 package com.teachmeskills.lesson6;
 
-public class ActionsWithCreditCard {
+public class TestCreditCard {
 
     public static void main (String [] args) {
         CreditCard firstCreditCard = new CreditCard("0000_0000_0000_0001", 1000.00);
